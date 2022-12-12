@@ -1,3 +1,4 @@
+![Prediction](Prediction.png)
 # Overview
 
 The purpose of this project is to use data from international matches since the 1990s, as well as information about the teams' qualifications to predict the outcomes of the 2022 World Cup in Qatar.
